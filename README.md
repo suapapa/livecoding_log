@@ -2,12 +2,11 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
-## 20200527-NOW
+## 20200527
 
 khaiii (Kakao Hangul Analyzer III, 카카오 형테소 분석기 3) 를 고 패키지로 말아봅니다. (CGo)
 
-[x] 라이브러리 호출 되기 시작
-[x] khaiii 빌드 및 설치
+* 결과물: http://github.com/suapapa/go_khaiii
 
 ----
 
