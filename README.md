@@ -13,7 +13,7 @@ khaiii에서 약어로 출력되는 품사의 정보를 좀더 자세히 알려�
 khaiii (Kakao Hangul Analyzer III, 카카오 형테소 분석기 3) 를
 고 패키지로 말아봅니다. (CGo) -> 완료
 
-* 결과물: http://github.com/suapapa/go_khaiiik
+* 결과물: http://github.com/suapapa/go_khaiii
 
 
 ## 20200525-20200526
