@@ -2,14 +2,19 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
-## 20200527
+## 20200528-NOW
+
+khaiii에서 약어로 출력되는 품사의 정보를 좀더 자세히 알려주는 패키지 작성
+
+* 결과물: http://github.com/suapapa/go_krmorph
+
+## 20200527-20200528
 
 khaiii (Kakao Hangul Analyzer III, 카카오 형테소 분석기 3) 를
 고 패키지로 말아봅니다. (CGo) -> 완료
 
-* 결과물: http://github.com/suapapa/go_khaiii
+* 결과물: http://github.com/suapapa/go_khaiiik
 
-----
 
 ## 20200525-20200526
 
