@@ -2,11 +2,15 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
-## 20200529-NOW
+## 20200529-NOW (오늘 할 거)
 
-khaiii에서 약어로 출력되는 품사의 정보를 좀더 자세히 알려주는 패키지 작성
+트위치 API 사용해 추첨 프로그램 만들기
+* [ ] OAuth2 로그인 하기
+* [ ] 내 user id 가져오기
+* [ ] 내 follower 들 가져오기
+* [ ] golangkorea/lotto 수정
 
-* 결과물: http://github.com/suapapa/go_krmorph
+----
 
 ## 20200527-20200528
 
