@@ -9,7 +9,8 @@
 * [x] 내 user id 가져오기
 * [x] 내 follower 들 가져오기
 * [x] 추첨 로직
-* [ ] golangkorea/lotto 수정
+* [ ] golangkorea/lotto 수정중...
+* [ ] golangkorea/lotto 에 twitch 끼얹기.
 
 * 결과물: http://github.com/suapapa/twitch-lotto
 
