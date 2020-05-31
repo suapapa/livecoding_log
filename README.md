@@ -5,10 +5,13 @@
 ## 20200529-NOW (오늘 할 거)
 
 트위치 API 사용해 추첨 프로그램 만들기
-* [ ] OAuth2 로그인 하기
-* [ ] 내 user id 가져오기
-* [ ] 내 follower 들 가져오기
+* [x] OAuth2 로그인 하기
+* [x] 내 user id 가져오기
+* [x] 내 follower 들 가져오기
+* [x] 추첨 로직
 * [ ] golangkorea/lotto 수정
+
+* 결과물: http://github.com/suapapa/twitch-lotto
 
 ----
 
