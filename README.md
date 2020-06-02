@@ -2,9 +2,17 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
-## 20200601-NOW (오늘 할 거)
 
-닉시 트위치 팔로워 카운터
+## 20206002 (오늘 할 거)
+
+1. LMK1638 모듈 드라이버 패키지. periph.io 기반 재 작성
+
+* 결과물: github.com/suapapa/go_deivces/tm1638
+
+
+## 20200601
+
+닉시 트위치 팔로워 카운터 -> 망함 (하드웨어불량)
 
 * 결과물: https://github.com/suapapa/nixie-twitch-counter
 
