@@ -3,9 +3,9 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
-## 20206002 (오늘 할 거)
+## 20200602
 
-1. LMK1638 모듈 드라이버 패키지. periph.io 기반 재 작성
+1. TM1638 모듈 드라이버 패키지. periph.io 기반 재 작성
 
 * 결과물: github.com/suapapa/go_deivces/tm1638
 
