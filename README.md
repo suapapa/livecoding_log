@@ -3,9 +3,16 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
+## 20200603
+
+TM1638 모듈을 사용한 FND 트위치 팔로워 카운터
+
+* 결과물: https://github.com/suapapa/fnd-twitch-counter
+
+
 ## 20200602
 
-1. TM1638 모듈 드라이버 패키지. periph.io 기반 재 작성
+TM1638 모듈 드라이버 패키지. periph.io 기반 재 작성
 
 * 결과물: github.com/suapapa/go_deivces/tm1638
 
