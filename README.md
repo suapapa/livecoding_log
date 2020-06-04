@@ -2,6 +2,12 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
+## 20200604
+
+khaiii 와 함께 사용할 품사 설명 패키지; `go_pos`
+
+* 결과물: https://github.com/suapapa/go_krpos
+
 
 ## 20200603
 
