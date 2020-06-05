@@ -4,7 +4,7 @@
 
 ## 20200604
 
-khaiii 와 함께 사용할 품사 설명 패키지; `go_pos`
+khaiii 와 함께 사용할 품사 설명 패키지
 
 * 결과물: https://github.com/suapapa/go_krpos
 
