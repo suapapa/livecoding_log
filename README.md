@@ -3,10 +3,19 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
+1. 한글라이즈(홍민희님) 한글 패키지 업데이트 풀리퀘 작성
+
+## 20200608
+
+아두이노-네오픽셀-프로토버퍼 끊김 현상 디버깅. --> 수정완료!
+
+* 결과물: https://github.com/suapapa/pb-neopixel
+
+
 ## 20200606-20200607
 
-네오픽셀 프로토버퍼로 메세지 만들어 제어해 봄.
-그냥 불 켜지는 예제 말고, 예쁜 예제(rainbow chase) 만들는 중...
+아두이노(esp8266) 네오픽셀 프로토버퍼로 메세지 만들어 제어해 봄.
+그냥 불 켜지는 예제 말고, 예쁜 예제(rainbow chase) 만듦
 
 * 결과물: https://github.com/suapapa/pb-neopixel
 
@@ -16,6 +25,8 @@
 khaiii 와 함께 사용할 품사 설명 패키지
 
 * 결과물: https://github.com/suapapa/go_krpos
+
+STL을 모델을 OpenGL4로 그려봄 -> 망함. 쉐이더가 뭔지 모르겠음;;
 
 
 ## 20200603
