@@ -3,6 +3,20 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
+## 20200610
+
+어제 기다리던 캐슁이 아직도 안됨? 뭔가 문제가 있나?
+ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴볼 예정
+
+* [ebiten](https://github.com/hajimehoshi/ebiten)
+
+라즈베리파이 크로스컴파일 (CGo) 해 보기
+
+    CC=x86_64-pc-linux-gcc GOOS=linux GOARCH=amd64 CGO_ENABLED=1 go build
+
+* [prebuilt cross compiler for rpi](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
+
+
 ## 20200609
 
 한글라이즈(홍민희님) 한글 패키지 업데이트 풀리퀘 작성
@@ -12,6 +26,8 @@
 
 * [한글](https://github.com/suapapa/go_hangul) v1.1.0 -> v2.0.1 로 버전 업
 * [pkg.go.dev](https://pkg.go.dev/github.com/suapapa/go_hangul) 에 아직 캐슁되지 않음
+
+    curl https://sum.golang.org/lookup/github.com/suapapa/go_krpos@v1.0.1
 
 
 ## 20200608
