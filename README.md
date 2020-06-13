@@ -3,6 +3,19 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
+## 20200612-NOW
+
+라즈베리파이 - I2C CLCD 드라이버 만들기 ==> 작업중
+
+* PCF8574-CLCD
+
+## 20200611
+
+텍스트 파싱 -> csv로 만들어 엑셀에서 열기 ==> 완료
+
+* 결과물: [gist](https://gist.github.com/suapapa/79cb476cafb8185d2b54473b66849123)
+
+
 ## 20200610
 
 어제 기다리던 캐슁이 아직도 안됨? 뭔가 문제가 있나?
@@ -10,7 +23,7 @@ ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴�
 
 * [ebiten](https://github.com/hajimehoshi/ebiten)
 
-라즈베리파이 크로스컴파일 (CGo) 해 보기
+라즈베리파이 크로스컴파일 (CGo) 해 보기 ==> 해보다 맒
 
     CC=x86_64-pc-linux-gcc GOOS=linux GOARCH=amd64 CGO_ENABLED=1 go build
 
@@ -24,10 +37,14 @@ ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴�
 * [한글라이즈](https://hangulize.org)
 * [한글라이즈-코드](https://github.com/hangulize/hangulize)
 
-* [한글](https://github.com/suapapa/go_hangul) v1.1.0 -> v2.0.1 로 버전 업
+* [한글](https://github.com/suapapa/go_hangul) v1.1.0 -> v1.2.1 로 버전 업
 * [pkg.go.dev](https://pkg.go.dev/github.com/suapapa/go_hangul) 에 아직 캐슁되지 않음
 
-    curl https://sum.golang.org/lookup/github.com/suapapa/go_krpos@v1.0.1
+Update pkg.go.dev cache:
+
+    curl -X GET https://proxy.golang.org/github.com/suapapa/go_hangul/@v/v1.2.1.info
+    curl -X GET https://proxy.golang.org/github.com/suapapa/go_krpos/@v/v1.0.2.info
+    curl -X GET https://proxy.golang.org/github.com/suapapa/go_khaiii/@v/v1.0.2.info
 
 
 ## 20200608
