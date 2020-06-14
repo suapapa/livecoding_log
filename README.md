@@ -3,9 +3,13 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
-## 20200612-NOW
+## 20200612-20200614
 
-라즈베리파이 - I2C CLCD 드라이버 만들기 ==> 작업중
+라즈베리파이 - I2C CLCD 드라이버 만들기 ==> 완료
+
+* 결과물: [github.com/suapapa/go_devices/pcf8574clcd](https://pkg.go.dev/github.com/suapapa/go_devices@v1.0.1/pcf8574clcd?tab=doc)
+
+
 
 * PCF8574-CLCD
 
