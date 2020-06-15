@@ -4,7 +4,10 @@
 
 ## 20200615-NOW
 
-* [eddystone](https://pkg.go.dev/github.com/suapapa/go_eddystone) 패키지 손보기.
+* [eddystone](https://pkg.go.dev/github.com/suapapa/go_eddystone)
+
+- 5년 묵힌 에디스톤 비콘 패키지 손 봅니다. ==> 완료
+- 가능하면 [muka/go-bluetooth](https://github.com/muka/go-bluetooth)에 풀리퀘도 해 봅니다. ==> 내일
 
 
 ## 20200612-20200614
