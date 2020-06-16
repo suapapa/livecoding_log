@@ -7,6 +7,9 @@
 * [eddystone](https://pkg.go.dev/github.com/suapapa/go_eddystone)
 
 - 5년 묵힌 에디스톤 비콘 패키지 손 봅니다. ==> 완료
+- [EID Frame](https://github.com/google/eddystone/tree/master/eddystone-eid) 구현 ==> 완료
+
+- MakeUIDFrame 리펙토링 ==> 내일
 - 가능하면 [muka/go-bluetooth](https://github.com/muka/go-bluetooth)에 풀리퀘도 해 봅니다. ==> 내일
 
 
