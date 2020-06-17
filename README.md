@@ -2,15 +2,18 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
-## 20200615-NOW
+## 20200615-20200617
 
-* [eddystone](https://pkg.go.dev/github.com/suapapa/go_eddystone)
+[eddystone](https://pkg.go.dev/github.com/suapapa/go_eddystone) 비콘 패키지를 손보고, 유명한,
+`muka/go-bluetooth` 에 풀리퀘를 넣어 봅니다.
 
-- 5년 묵힌 에디스톤 비콘 패키지 손 봅니다. ==> 완료
-- [EID Frame](https://github.com/google/eddystone/tree/master/eddystone-eid) 구현 ==> 완료
+* [x] 5년 묵힌 에디스톤 비콘 패키지 손 봅니다. ==> 완료
+* [x] EID Frame 구현 ==> 완료
+* [x] MakeUIDFrame 리펙토링 ==> 완료
+* [x] [muka/go-bluetooth](https://github.com/muka/go-bluetooth)에 풀리퀘도 해 봅니다. ==> 완료
 
-- MakeUIDFrame 리펙토링 ==> 내일
-- 가능하면 [muka/go-bluetooth](https://github.com/muka/go-bluetooth)에 풀리퀘도 해 봅니다. ==> 내일
+[golangkorea/lotto](https://github.com/golangkorea/lotto) 프로그램에도 전에 트위치로또
+만들며 정리한 내용을 풀리퀘 합니다. ==> 완료
 
 
 ## 20200612-20200614
