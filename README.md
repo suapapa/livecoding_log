@@ -10,7 +10,7 @@
 * [x] 5년 묵힌 에디스톤 비콘 패키지 손 봅니다. ==> 완료
 * [x] EID Frame 구현 ==> 완료
 * [x] MakeUIDFrame 리펙토링 ==> 완료
-* [x] [muka/go-bluetooth](https://github.com/muka/go-bluetooth)에 풀리퀘도 해 봅니다. ==> 완료
+* [x] muka/go-bluetooth에 풀리퀘도 해 봅니다. ==> [머지됨](https://github.com/muka/go-bluetooth/pull/110)
 
 [golangkorea/lotto](https://github.com/golangkorea/lotto) 프로그램에도 전에 트위치로또
 만들며 정리한 내용을 풀리퀘 합니다. ==> 완료
@@ -46,7 +46,7 @@ ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴�
 
 ## 20200609
 
-한글라이즈(홍민희님) 한글 패키지 업데이트 풀리퀘 작성 ==> [머지완료](https://github.com/hangulize/hangulize/pull/13)
+한글라이즈(홍민희님) 한글 패키지 업데이트 풀리퀘 작성 ==> [머지됨](https://github.com/hangulize/hangulize/pull/13)
 
 * [한글라이즈](https://hangulize.org)
 * [한글라이즈-코드](https://github.com/hangulize/hangulize)
