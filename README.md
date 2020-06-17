@@ -29,8 +29,8 @@
 
 ## 20200610
 
-어제 기다리던 캐슁이 아직도 안됨? 뭔가 문제가 있나?
-ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴볼 예정
+어제 기다리던 캐슁이 아직도 안됨? 뭔가 문제가 있나? ==> 됨
+ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴볼 예정 ==> 보다 맒
 
 * [ebiten](https://github.com/hajimehoshi/ebiten)
 
@@ -43,19 +43,17 @@ ebiten이라는 크로스플렛폼 고 게임 메이킹 라이브러리 살펴�
 
 ## 20200609
 
-한글라이즈(홍민희님) 한글 패키지 업데이트 풀리퀘 작성
+한글라이즈(홍민희님) 한글 패키지 업데이트 풀리퀘 작성 ==> [머지완료](https://github.com/hangulize/hangulize/pull/13)
 
 * [한글라이즈](https://hangulize.org)
 * [한글라이즈-코드](https://github.com/hangulize/hangulize)
 
 * [한글](https://github.com/suapapa/go_hangul) v1.1.0 -> v1.2.1 로 버전 업
-* [pkg.go.dev](https://pkg.go.dev/github.com/suapapa/go_hangul) 에 아직 캐슁되지 않음
+* [pkg.go.dev](https://pkg.go.dev/github.com/suapapa/go_hangul) 에 아직 캐슁되지 않음==> 됨
 
 Update pkg.go.dev cache: [adding-a-package](https://go.dev/about#adding-a-package)
 
     curl -X GET https://proxy.golang.org/github.com/suapapa/go_hangul/@v/v1.2.1.info
-    curl -X GET https://proxy.golang.org/github.com/suapapa/go_krpos/@v/v1.0.2.info
-    curl -X GET https://proxy.golang.org/github.com/suapapa/go_khaiii/@v/v1.0.2.info
 
 
 ## 20200608
