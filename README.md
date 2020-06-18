@@ -2,6 +2,17 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
+
+## 20200618-NOW
+
+음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다.
+
+* [x] portaudio로 devlopers.kakao.com stt API 사용하기
+* [x] 문장이 끝날 때 마다 번역 API 사용하기
+* [x] 잘 합쳐보기
+* [ ] ebiten으로 GUI로 출력해봅니다.
+
+
 ## 20200615-20200617
 
 [eddystone](https://pkg.go.dev/github.com/suapapa/go_eddystone) 비콘 패키지를 손보고, 유명한,
