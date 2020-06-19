@@ -5,12 +5,17 @@
 
 ## 20200618-NOW
 
-음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다.
+음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다. [suapapa/voice-translator](https://github.com/suapapa/voice-translator.git)
 
 * [x] portaudio로 devlopers.kakao.com stt API 사용하기
 * [x] 문장이 끝날 때 마다 번역 API 사용하기
 * [x] 잘 합쳐보기
-* [ ] ebiten으로 GUI로 출력해봅니다.
+* [x] ebiten으로 GUI로 출력해봅니다. ==> 되기 시작!!
+* [ ] 가끔식 죽는 버그 (translator)
+* [ ] 말풍선 그리기
+* [ ] 너무 긴 문장은 어떻게 해야하나?
+* [ ] Ctrl-C로 빠져나오지 못하는 문제
+* [ ] 디버그 스트링 -> TTF폰트 사용
 
 
 ## 20200615-20200617
@@ -24,7 +29,7 @@
 * [x] muka/go-bluetooth에 풀리퀘도 해 봅니다. ==> [머지됨](https://github.com/muka/go-bluetooth/pull/110)
 
 [golangkorea/lotto](https://github.com/golangkorea/lotto) 프로그램에도 전에 트위치로또
-만들며 정리한 내용을 풀리퀘 합니다. ==> 완료
+만들며 정리한 내용을 풀리퀘 합니다. ==> 머지됨
 
 
 ## 20200612-20200614
