@@ -3,19 +3,18 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
-## 20200618-NOW
+## 20200618-20200620
 
 음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다. [suapapa/voice-translator](https://github.com/suapapa/voice-translator.git)
 
 * [x] portaudio로 devlopers.kakao.com stt API 사용하기
 * [x] 문장이 끝날 때 마다 번역 API 사용하기
-* [x] 잘 합쳐보기
-* [x] ebiten으로 GUI로 출력해봅니다. ==> 되기 시작!!
-* [ ] 가끔식 죽는 버그 (translator)
-* [ ] 말풍선 그리기
+* [x] ebiten으로 GUI로 출력해봅니다.
+* [x] 가끔식 죽는 버그 수정
+* [x] 말풍선 그리기
+* [x] Ctrl-C로 빠져나오지 못하는 문제
+* [x] 디버그 스트링 -> TTF폰트 사용
 * [ ] 너무 긴 문장은 어떻게 해야하나?
-* [ ] Ctrl-C로 빠져나오지 못하는 문제
-* [ ] 디버그 스트링 -> TTF폰트 사용
 
 
 ## 20200615-20200617
