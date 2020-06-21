@@ -5,7 +5,9 @@
 
 ## 20200618-20200620
 
-음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다. [suapapa/voice-translator](https://github.com/suapapa/voice-translator.git)
+음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다. 
+
+* 결과물: [suapapa/horseballoon](https://github.com/suapapa/horseballoon.git)
 
 * [x] portaudio로 devlopers.kakao.com stt API 사용하기
 * [x] 문장이 끝날 때 마다 번역 API 사용하기
