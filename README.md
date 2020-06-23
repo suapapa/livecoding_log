@@ -2,12 +2,25 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
+## 20200622-NOW
+
+[TouchOSC](https://hexler.net/products/touchosc)로 방송제어 버튼을 만들어 봅니다.
+
+* 결과물 [suapapa/oscshortcut](https://github.com/suapapa/oscshortcut)
+
+* [x] 버튼 패널을 만들기
+* [x] OSC 서버-클라이언트 테스트
+* [x] 버튼들에 단축키 할당
+* [x] OSC에서 위의 단축키 이용하기
+* [x] 코드 정리 및 깃헙 푸쉬
+
+
 
 ## 20200618-20200620
 
 음성 자동 번역(한글->영문) 프로그램을 만들어 봅니다. 
 
-* 결과물: [suapapa/horseballoon](https://github.com/suapapa/horseballoon.git)
+* 결과물: [suapapa/horseballoon](https://github.com/suapapa/horseballoon)
 
 * [x] portaudio로 devlopers.kakao.com stt API 사용하기
 * [x] 문장이 끝날 때 마다 번역 API 사용하기
