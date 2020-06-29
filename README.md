@@ -2,9 +2,26 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
+
+# 20200629-NOW
+
+RPi, [seeed-voicdcard](https://github.com/respeaker/seeed-voicecard) 모듈 살펴보기:
+
+* [x] RPi voicecard 커널 드라이버 설치
+* [x] RPi 에 고 컴파일러 설치
+* [x] Kakao stt 실험하기: 스테레오라 두 채널 중 하나만 선택해서 전달.
+* [ ] 스테레오를 모노로 변환하는 방법 찾아보기: 내일!
+
+KHAiii 크로스컴파일:
+
+* [x] 툴체인 cmake 파일 생성
+* [ ] 크로스컴파일 실패 ==> 다른 크로스컴파일러 사용해보기
+* [ ] 성공 후 블로깅
+
+
 ## 20200626
 
-* gocv 둘러보기
+* gocv 둘러보기 ==> 잘 둘러 봄
 
 
 ## 20200624
