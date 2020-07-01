@@ -3,21 +3,30 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
-# 20200629-NOW
+# 20200701-NOW
+
+OSS OCR [Tesseract](https://github.com/tesseract-ocr/tesseract) 사용해보기.
+
+* [x] tesseract 설치 및 시험 `tesseract annyoung.png stdout -l kor --psm 10 --oem 3`
+* [ ] [gosseract](https://github.com/otiai10/gosseract) 부터 설치해보기
+
+
+
+# 20200629-20200630
 
 RPi, [seeed-voicdcard](https://github.com/respeaker/seeed-voicecard) 모듈 살펴보기:
 
 * [x] RPi voicecard 커널 드라이버 설치
 * [x] RPi 에 고 컴파일러 설치
 * [x] Kakao stt 실험하기: 스테레오라 두 채널 중 하나만 선택해서 전달.
-* [ ] 스테레오를 모노로 변환하는 방법 찾아보기: 내일! -> 모레!!
+* [x] 스테레오를 모노로 변환하는 방법 찾아보기 ==> L/R 중 하나를 선택하는게 일반적이라 함.
 
 KHAiii 크로스컴파일:
 
 * [x] 툴체인 cmake 파일 생성
 * [x] 크로스컴파일 실패 ==> 엉뚱한 arch (RPi 종류별로 다름;) 의 툴체인을 사용했던게 원인
-* [ ] 뭔가 로케일 에러가 나면서 실패 ==> slack 채널에 질문 던져 놓음
-* [ ] 성공 후 블로깅
+* [x] 뭔가 로케일 에러가 나면서 실패 ==> 로케일 설정 중...
+* [x] 성공 후 블로깅
 
 
 ## 20200626
