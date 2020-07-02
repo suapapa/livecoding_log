@@ -3,13 +3,17 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
-# 20200701-NOW
+# 20200702-NOW
+
+[클린 아키텍쳐](https://github.com/bxcodec/go-clean-arch)란걸 살펴봅니다.
+
+
+# 20200701
 
 OSS OCR [Tesseract](https://github.com/tesseract-ocr/tesseract) 사용해보기.
 
 * [x] tesseract 설치 및 시험 `tesseract annyoung.png stdout -l kor --psm 10 --oem 3`
-* [ ] [gosseract](https://github.com/otiai10/gosseract) 부터 설치해보기
-
+* [x] [gosseract](https://github.com/otiai10/gosseract) 부터 둘러 봄
 
 
 # 20200629-20200630
