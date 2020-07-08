@@ -2,8 +2,20 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
+# 20200708-NOW
 
-# 20200702-NOW
+MySQL 디비에 예제 데이터들을 넣어보고 gorm으로 읽고 써 봅니다
+==> sqlite로 회귀하기로...
+
+
+# 20200706-20200707
+
+GraphQL 서버를 만들어 봅니다.
+
+* [x] 예제를 따라해 봅니다
+
+
+# 20200702
 
 [클린 아키텍쳐](https://github.com/bxcodec/go-clean-arch)란걸 살펴봅니다.
 
