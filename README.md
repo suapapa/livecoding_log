@@ -2,17 +2,14 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
-# 20200708-NOW
 
-MySQL 디비에 예제 데이터들을 넣어보고 gorm으로 읽고 써 봅니다
-==> sqlite로 회귀하기로...
+# 20200706-Now
 
+GraphQL 서버를 만들어 봅니다. [sharefit-gql-server](https://github.com/suapapa/sharefit-gql-server)
 
-# 20200706-20200707
-
-GraphQL 서버를 만들어 봅니다.
-
-* [x] 예제를 따라해 봅니다
+* [x] 예제를 따라해 봄
+* [x] Gorm으로 mysql과 sqlite를 사용해 봄 ==> sqlite로 시작하기로.
+* [ ] GraphQL scheme 작성중...
 
 
 # 20200702
