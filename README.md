@@ -3,13 +3,36 @@
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
 
-# 20200706-Now
+# 20200721 (TODO)
+
+githubv4 (GraphQL) 을 통해 연간 커밋 월 별 그래프로 변환해 보기
+
+* [] [새 앱 등록하기](https://github.com/settings/apps/new)
+* [] [깃헙 GraphQL 문서 살펴보기](https://docs.github.com/en/graphql)
+
+
+# 20200720
+
+Go Modules 살펴보기
+* [module-compatibility](https://blog.golang.org/module-compatibility)
+
+Gorm-MySQL 살펴보기
+* [gorm-docs](http://gorm.io/docs)
+
+GraphQL client
+* [shurcooL/graphql](https://github.com/shurcooL/graphql)
+  * [shurcooL/githubv4](https://github.com/shurcooL/githubv4)
+* [machinebox/graphql](https://github.com/machinebox/graphql)
+
+
+# 20200706-20200717
 
 GraphQL 서버를 만들어 봅니다. [sharefit-gql-server](https://github.com/suapapa/sharefit-gql-server)
 
 * [x] 예제를 따라해 봄
 * [x] Gorm으로 mysql과 sqlite를 사용해 봄 ==> sqlite로 시작하기로.
-* [ ] GraphQL scheme 작성중...
+* [x] GraphQL scheme 작성중...
+* [ ] GCP or AWS 에 올려보기
 
 
 # 20200702
