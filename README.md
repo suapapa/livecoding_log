@@ -2,13 +2,10 @@
 
 [트위치-수아파파의 뚝딱뚝딱](https://twitch.tv/suapapa)
 
+# 20201120
 
-# 20200721 (TODO)
-
-githubv4 (GraphQL) 을 통해 연간 커밋 월 별 그래프로 변환해 보기
-
-* [] [새 앱 등록하기](https://github.com/settings/apps/new)
-* [] [깃헙 GraphQL 문서 살펴보기](https://docs.github.com/en/graphql)
+* mqtt pub/sub client [예제](https://github.com/CloudMQTT/go-mqtt-example) 따라해 봄
+* [mqtt broker](https://github.com/underflow101/goMQTTServer) 실행 해 봄
 
 
 # 20200720
